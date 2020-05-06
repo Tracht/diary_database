@@ -2,7 +2,7 @@ Daily Diary Application
 
 Mini project exploring how databases work.
 
-## Learning Objectives covered:
+### Learning Objectives covered:
 
 - Build a simple web app with a database
 - Follow an effective debugging process for database applications
